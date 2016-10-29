@@ -2,8 +2,8 @@
 
 namespace LanguageCode\Test;
 
-use Mockery;
 use LanguageCode\LanguageCode;
+use Mockery;
 
 class LanguageCodeTest extends \PHPUnit_Framework_TestCase
 {
