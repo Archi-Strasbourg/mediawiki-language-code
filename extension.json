@@ -5,7 +5,7 @@
   "description": "Magic words that display the current user or page language code",
   "type": "parserhook",
   "license-name": "GPL-3.0",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "Hooks": {
     "ParserGetVariableValueSwitch": [
       "LanguageCode\\LanguageCode::getMagicWord"
